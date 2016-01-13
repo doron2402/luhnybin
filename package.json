@@ -1,0 +1,22 @@
+{
+  "name": "luhnybin",
+  "version": "1.0.0",
+  "description": "Coding Challenge: The Luhny Bin ===============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doron2402/luhnybin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doron2402/luhnybin/issues"
+  },
+  "homepage": "https://github.com/doron2402/luhnybin#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
